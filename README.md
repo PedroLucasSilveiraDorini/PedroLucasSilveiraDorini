@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @PedroLucasSilveiraDorini
-- 👀 I’m interested in full stack
-- 🌱 I’m currently learning html 5 and css 3
+- 👋 Hi, I’m Pedro Lucas Silveira Dorini
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning scify
